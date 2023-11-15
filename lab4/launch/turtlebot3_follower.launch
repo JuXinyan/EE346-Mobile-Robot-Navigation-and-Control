@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="lab4" type="pole_follower" name="pole_follower" output="screen">
+  </node>
+</launch>
